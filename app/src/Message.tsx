@@ -45,6 +45,7 @@ function CalcForm() {
 
     return <div  id="app-wrap"  className="app-wrap">
        
+       <h1>Calculator </h1>
         <label className="inputLabel">Enter the First Number:
         <input type="number" min={0} id="firstInput" className="firstInput" value={firstInput} onChange={inputChange} />
         </label>
