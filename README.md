@@ -9,3 +9,7 @@ Perform operations(+,-,\*,/)
 # Created using Vite and TypeScript
 
 ## run using "npm run dev" in terminal.
+
+## how to run
+
+     npm run dev
